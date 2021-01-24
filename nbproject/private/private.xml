@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/web/ViewSingleUserDetail.html</file>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/src/java/util/HibernateUtil.java</file>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/web/ChangePassword.html</file>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/src/java/ViewSingleUserServlet.java</file>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/web/index.html</file>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/src/java/hibernate.cfg.xml</file>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/src/java/changepasswordServlet.java</file>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/src/java/signupServlet.java</file>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/web/Signup.html</file>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/web/RemoveUser.html</file>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/src/java/ViewAllUsersServlet.java</file>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/src/java/removeuserServlet.java</file>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/src/java/entity/User.java</file>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/src/java/DAO/UsersDAO.java</file>
+            <file>file:/D:/6th_Semester/Advance_Java/Hibernate_1/src/java/hibernate.reveng.xml</file>
+        </group>
+    </open-files>
+</project-private>
